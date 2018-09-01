@@ -1,2 +1,2 @@
 # QueroConhecer
-## APP for mark on the map location visits.
+## APP for mark on the map location visited.
